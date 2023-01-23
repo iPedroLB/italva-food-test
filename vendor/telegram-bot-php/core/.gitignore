@@ -1,0 +1,6 @@
+.idea
+/.env
+/vendor
+/example.php
+/.telegram-bot
+/.phpunit.result.cache
